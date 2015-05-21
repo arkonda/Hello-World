@@ -1,4 +1,5 @@
 // Copyright [c] 2002 Artemis International Solutions Corporation
+// My proposed changes
 package artemispm.jvdo2;
 
 // from machine - second changes
